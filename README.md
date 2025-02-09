@@ -20,9 +20,9 @@ Os usuários não poderão ter permissão de leitura, escrita e execução em di
 
 GRP_ADM\
 GRP_VEN\
-GRP_SEC\
+GRP_SEC
 
-*Criar os usuários:\
+*Criar os usuários:
 
 Carlos, Maria e João em ADM\
 Débora , Sebastiana e Roberto em VEN\
